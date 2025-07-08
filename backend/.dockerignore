@@ -1,6 +1,0 @@
-docs
-logs
-node_modules
-.env
-dist
-tests
